@@ -1,2 +1,2 @@
-# azotos
+# Azotos
 azo notes
